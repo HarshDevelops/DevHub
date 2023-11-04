@@ -32,7 +32,7 @@ DevHub is a full-stack social media platform designed for developer connections 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/devhub.git
+   [git clone https://github.com/yourusername/devhub.git](https://github.com/HarshDevelops/DevHub)
 
 2. Set up your environment variables (e.g., database connection, JWT secret) in a .env file in the backend directory.
 
